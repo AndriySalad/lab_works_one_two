@@ -43,6 +43,7 @@
 Завдання 1:  
 
 
+![Screenshot_2](https://user-images.githubusercontent.com/74617617/196692376-81e07be2-c3da-4fda-bd0e-ec805fb502ca.png)
 
  
 

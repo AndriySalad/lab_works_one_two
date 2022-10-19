@@ -45,13 +45,16 @@
 
 ![Screenshot_2](https://user-images.githubusercontent.com/74617617/196692376-81e07be2-c3da-4fda-bd0e-ec805fb502ca.png)
 
- 
+ ![Screenshot_3](https://user-images.githubusercontent.com/74617617/196692477-55192931-82e3-45ad-9c38-ef37657c8caa.png)
+
 
 Завдання 2:
- 
+ ![7](https://user-images.githubusercontent.com/74617617/196693193-9135018d-844d-49c1-b39d-fd79639f6f51.png)
+
 
 Завдання 5:
  
+![Screenshot_6](https://user-images.githubusercontent.com/74617617/196692558-9658acd2-4086-4695-bec7-0674d6f76707.png)
 
 
 GitHub repository:  https://github.com/AndruXxX/lab_works_one_two.git

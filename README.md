@@ -54,6 +54,7 @@ YAML в основному використовується як формат д
 ![Screenshot_12](https://user-images.githubusercontent.com/74617617/197898978-c552d7f8-bc72-48e1-a882-75656bddc659.png)
 ![Screenshot_11](https://user-images.githubusercontent.com/74617617/197899006-aecf9828-f50a-4a2c-bca0-b1d29affdb8a.png)
 
+Docker hub repository: https://hub.docker.com/repository/docker/saldjandrew/mypage
 
 4.	Скачати Docker Image когось із групи і розвернути в себе контейнер з HTML сторінкою на порті 8086 ззовні.
 ![Screenshot_14](https://user-images.githubusercontent.com/74617617/197898844-29ece8d7-cb72-44d8-8c06-ed6212c98abf.png)

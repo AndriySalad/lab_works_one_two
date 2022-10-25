@@ -49,8 +49,11 @@ YAML в основному використовується як формат д
 
 ![Screenshot_10](https://user-images.githubusercontent.com/74617617/197898681-a30ac326-ce9d-404d-b847-d05c56b82ea9.png)
 ![Screenshot_8](https://user-images.githubusercontent.com/74617617/197898722-41e715c6-4103-4228-9a04-d60f8bd055df.png)
- ![Screenshot_9](https://user-images.githubusercontent.com/74617617/197898760-8c708c0a-cbc1-41fc-95bc-3e21b6a80088.png)
+![Screenshot_9](https://user-images.githubusercontent.com/74617617/197898760-8c708c0a-cbc1-41fc-95bc-3e21b6a80088.png)
 ![Screenshot_7](https://user-images.githubusercontent.com/74617617/197898783-d7aa32e5-37a8-4341-ad6c-9eb0a79b18b9.png)
+![Screenshot_12](https://user-images.githubusercontent.com/74617617/197898978-c552d7f8-bc72-48e1-a882-75656bddc659.png)
+![Screenshot_11](https://user-images.githubusercontent.com/74617617/197899006-aecf9828-f50a-4a2c-bca0-b1d29affdb8a.png)
+
 
 4.	Скачати Docker Image когось із групи і розвернути в себе контейнер з HTML сторінкою на порті 8086 ззовні.
 ![Screenshot_14](https://user-images.githubusercontent.com/74617617/197898844-29ece8d7-cb72-44d8-8c06-ed6212c98abf.png)
